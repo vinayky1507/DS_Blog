@@ -242,6 +242,12 @@ p{
     font-weight: 300;
     text-align: justify;
 }
+ul{
+    color: var(--black);
+    font-weight: 300;
+    text-align: justify;
+    padding-left: 20px;
+}
 .about .contentBx
 {
     position: relative;
@@ -486,5 +492,12 @@ footer .footerMenu li a
 {
     margin-top: 0px;
 }
+}
+#smsg
+{
+color:#61b752;
+margin-top:-40px;
+display:block;
+
 }
 
